@@ -1,4 +1,4 @@
-# server-bugs
+# server-issues
 
 A place for tracking status of bugs in servers: https://github.com/hapi-server/server-bugs/issues
 
